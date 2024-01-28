@@ -1,16 +1,16 @@
 {
     "name": "fetchjson",
     "version": "1.0.0",
-    "description": "",
+    "description": "A very basic entry level TypeScript application that makes one api call to a jsonplaceholder database using axios and returns one todo.",
     "main": "index.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "keywords": [
-        "json, axios, typescript, javascript"
+        "json, axios, typescript, javascript, api"
     ],
     "author": "John Downs",
-    "license": "ISC",
+    "license": "MIT",
     "dependencies": {
         "axios": "^1.6.7"
     }
